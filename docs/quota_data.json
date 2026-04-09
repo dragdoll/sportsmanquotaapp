@@ -66,9 +66,9 @@
           "quota": 60
         },
         {
-          "entries": 60,
+          "entries": 59,
           "name": "Super Comp",
-          "percent_full": "100.0%",
+          "percent_full": "98.3%",
           "quota": 60
         },
         {
@@ -78,9 +78,9 @@
           "quota": 60
         },
         {
-          "entries": 34,
+          "entries": 33,
           "name": "Super Street",
-          "percent_full": "68.0%",
+          "percent_full": "66.0%",
           "quota": 50
         },
         {
@@ -263,9 +263,9 @@
     {
       "classes": [
         {
-          "entries": 26,
+          "entries": 27,
           "name": "Super Stock",
-          "percent_full": "47.3%",
+          "percent_full": "49.1%",
           "quota": 55
         },
         {
@@ -300,6 +300,6 @@
       "name": "Super Grip NHRA Thunder Valley Nationals"
     }
   ],
-  "generated_epoch": 1775730065,
-  "last_checked": "2026-04-09T10:21:05.199997Z"
+  "generated_epoch": 1775747567,
+  "last_checked": "2026-04-09T15:12:47.605206Z"
 }
