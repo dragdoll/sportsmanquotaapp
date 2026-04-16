@@ -3,9 +3,9 @@
     {
       "classes": [
         {
-          "entries": 47,
+          "entries": 48,
           "name": "Super Stock",
-          "percent_full": "78.3%",
+          "percent_full": "80.0%",
           "quota": 60
         },
         {
@@ -153,9 +153,9 @@
     {
       "classes": [
         {
-          "entries": 14,
+          "entries": 15,
           "name": "Super Stock",
-          "percent_full": "28.0%",
+          "percent_full": "30.0%",
           "quota": 50
         },
         {
@@ -165,9 +165,9 @@
           "quota": 50
         },
         {
-          "entries": 17,
+          "entries": 18,
           "name": "Super Comp",
-          "percent_full": "34.0%",
+          "percent_full": "36.0%",
           "quota": 50
         },
         {
@@ -216,9 +216,9 @@
           "quota": 55
         },
         {
-          "entries": 34,
+          "entries": 35,
           "name": "Super Comp",
-          "percent_full": "61.8%",
+          "percent_full": "63.6%",
           "quota": 55
         },
         {
@@ -228,9 +228,9 @@
           "quota": 55
         },
         {
-          "entries": 1,
+          "entries": 2,
           "name": "Top Sportsman",
-          "percent_full": "2.8%",
+          "percent_full": "5.6%",
           "quota": 36
         }
       ],
@@ -243,9 +243,9 @@
     {
       "classes": [
         {
-          "entries": 36,
+          "entries": 39,
           "name": "Super Stock",
-          "percent_full": "65.5%",
+          "percent_full": "70.9%",
           "quota": 55
         },
         {
@@ -292,6 +292,6 @@
       "name": "Summit Racing Equipment NHRA Nationals"
     }
   ],
-  "generated_epoch": 1776289135,
-  "last_checked": "2026-04-15T21:38:55.503842Z"
+  "generated_epoch": 1776297768,
+  "last_checked": "2026-04-16T00:02:48.576197Z"
 }
