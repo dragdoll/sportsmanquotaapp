@@ -15,9 +15,9 @@
           "quota": 60
         },
         {
-          "entries": 58,
+          "entries": 59,
           "name": "Super Comp",
-          "percent_full": "96.7%",
+          "percent_full": "98.3%",
           "quota": 60
         },
         {
@@ -123,9 +123,9 @@
           "quota": 36
         },
         {
-          "entries": 15,
+          "entries": 16,
           "name": "Top Dragster",
-          "percent_full": "41.7%",
+          "percent_full": "44.4%",
           "quota": 36
         }
       ],
@@ -249,9 +249,9 @@
           "quota": 55
         },
         {
-          "entries": 39,
+          "entries": 41,
           "name": "Stock Eliminator",
-          "percent_full": "70.9%",
+          "percent_full": "74.5%",
           "quota": 55
         },
         {
@@ -261,15 +261,15 @@
           "quota": 55
         },
         {
-          "entries": 55,
+          "entries": 56,
           "name": "Super Gas",
-          "percent_full": "100.0%",
+          "percent_full": "101.8%",
           "quota": 55
         },
         {
-          "entries": 23,
+          "entries": 24,
           "name": "Super Street",
-          "percent_full": "46.0%",
+          "percent_full": "48.0%",
           "quota": 50
         },
         {
@@ -292,6 +292,6 @@
       "name": "Summit Racing Equipment NHRA Nationals"
     }
   ],
-  "generated_epoch": 1776384463,
-  "last_checked": "2026-04-17T00:07:43.995562Z"
+  "generated_epoch": 1776407135,
+  "last_checked": "2026-04-17T06:25:35.878410Z"
 }
