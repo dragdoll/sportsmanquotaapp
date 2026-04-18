@@ -33,9 +33,9 @@
           "quota": 50
         },
         {
-          "entries": 13,
+          "entries": 12,
           "name": "Top Sportsman",
-          "percent_full": "36.1%",
+          "percent_full": "33.3%",
           "quota": 36
         },
         {
@@ -159,9 +159,9 @@
           "quota": 50
         },
         {
-          "entries": 49,
+          "entries": 50,
           "name": "Stock Eliminator",
-          "percent_full": "98.0%",
+          "percent_full": "100.0%",
           "quota": 50
         },
         {
@@ -249,9 +249,9 @@
           "quota": 55
         },
         {
-          "entries": 42,
+          "entries": 43,
           "name": "Stock Eliminator",
-          "percent_full": "76.4%",
+          "percent_full": "78.2%",
           "quota": 55
         },
         {
@@ -292,6 +292,6 @@
       "name": "Summit Racing Equipment NHRA Nationals"
     }
   ],
-  "generated_epoch": 1776513521,
-  "last_checked": "2026-04-18T11:58:41.281449Z"
+  "generated_epoch": 1776522347,
+  "last_checked": "2026-04-18T14:25:47.389404Z"
 }
