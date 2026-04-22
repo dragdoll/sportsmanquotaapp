@@ -66,9 +66,9 @@
           "quota": 50
         },
         {
-          "entries": 48,
+          "entries": 49,
           "name": "Super Comp",
-          "percent_full": "96.0%",
+          "percent_full": "98.0%",
           "quota": 50
         },
         {
@@ -123,9 +123,9 @@
           "quota": 36
         },
         {
-          "entries": 18,
+          "entries": 19,
           "name": "Top Dragster",
-          "percent_full": "50.0%",
+          "percent_full": "52.8%",
           "quota": 36
         }
       ],
@@ -153,9 +153,9 @@
     {
       "classes": [
         {
-          "entries": 14,
+          "entries": 15,
           "name": "Super Stock",
-          "percent_full": "28.0%",
+          "percent_full": "30.0%",
           "quota": 50
         },
         {
@@ -165,9 +165,9 @@
           "quota": 50
         },
         {
-          "entries": 18,
+          "entries": 19,
           "name": "Super Comp",
-          "percent_full": "36.0%",
+          "percent_full": "38.0%",
           "quota": 50
         },
         {
@@ -177,9 +177,9 @@
           "quota": 50
         },
         {
-          "entries": 5,
+          "entries": 6,
           "name": "Super Street",
-          "percent_full": "10.0%",
+          "percent_full": "12.0%",
           "quota": 50
         },
         {
@@ -189,9 +189,9 @@
           "quota": 36
         },
         {
-          "entries": 3,
+          "entries": 4,
           "name": "Top Dragster",
-          "percent_full": "8.3%",
+          "percent_full": "11.1%",
           "quota": 36
         }
       ],
@@ -204,15 +204,15 @@
     {
       "classes": [
         {
-          "entries": 31,
+          "entries": 32,
           "name": "Super Stock",
-          "percent_full": "56.4%",
+          "percent_full": "58.2%",
           "quota": 55
         },
         {
-          "entries": 45,
+          "entries": 46,
           "name": "Stock Eliminator",
-          "percent_full": "81.8%",
+          "percent_full": "83.6%",
           "quota": 55
         },
         {
@@ -249,15 +249,15 @@
           "quota": 55
         },
         {
-          "entries": 50,
+          "entries": 51,
           "name": "Stock Eliminator",
-          "percent_full": "90.9%",
+          "percent_full": "92.7%",
           "quota": 55
         },
         {
-          "entries": 55,
+          "entries": 56,
           "name": "Super Comp",
-          "percent_full": "100.0%",
+          "percent_full": "101.8%",
           "quota": 55
         },
         {
@@ -279,9 +279,9 @@
           "quota": 36
         },
         {
-          "entries": 3,
+          "entries": 4,
           "name": "Top Dragster",
-          "percent_full": "8.3%",
+          "percent_full": "11.1%",
           "quota": 36
         }
       ],
@@ -292,6 +292,6 @@
       "name": "Summit Racing Equipment NHRA Nationals"
     }
   ],
-  "generated_epoch": 1776870634,
-  "last_checked": "2026-04-22T15:10:34.146349Z"
+  "generated_epoch": 1776881814,
+  "last_checked": "2026-04-22T18:16:54.008857Z"
 }
