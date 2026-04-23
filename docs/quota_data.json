@@ -60,9 +60,9 @@
           "quota": 50
         },
         {
-          "entries": 51,
+          "entries": 50,
           "name": "Stock Eliminator",
-          "percent_full": "102.0%",
+          "percent_full": "100.0%",
           "quota": 50
         },
         {
@@ -123,9 +123,9 @@
           "quota": 36
         },
         {
-          "entries": 19,
+          "entries": 20,
           "name": "Top Dragster",
-          "percent_full": "52.8%",
+          "percent_full": "55.6%",
           "quota": 36
         }
       ],
@@ -279,9 +279,9 @@
           "quota": 36
         },
         {
-          "entries": 4,
+          "entries": 5,
           "name": "Top Dragster",
-          "percent_full": "11.1%",
+          "percent_full": "13.9%",
           "quota": 36
         }
       ],
@@ -292,6 +292,6 @@
       "name": "Summit Racing Equipment NHRA Nationals"
     }
   ],
-  "generated_epoch": 1776892388,
-  "last_checked": "2026-04-22T21:13:08.393356Z"
+  "generated_epoch": 1776902660,
+  "last_checked": "2026-04-23T00:04:20.712573Z"
 }
