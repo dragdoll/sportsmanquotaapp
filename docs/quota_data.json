@@ -9,9 +9,9 @@
           "quota": 60
         },
         {
-          "entries": 60,
+          "entries": 59,
           "name": "Stock Eliminator",
-          "percent_full": "100.0%",
+          "percent_full": "98.3%",
           "quota": 60
         },
         {
@@ -114,9 +114,9 @@
     {
       "classes": [
         {
-          "entries": 38,
+          "entries": 39,
           "name": "Super Stock",
-          "percent_full": "69.1%",
+          "percent_full": "70.9%",
           "quota": 55
         },
         {
@@ -202,6 +202,6 @@
       "name": "Summit Racing Equipment NHRA Nationals"
     }
   ],
-  "generated_epoch": 1777998606,
-  "last_checked": "2026-05-05T16:30:06.020368Z"
+  "generated_epoch": 1778012158,
+  "last_checked": "2026-05-05T20:15:58.556739Z"
 }
