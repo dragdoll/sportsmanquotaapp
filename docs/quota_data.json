@@ -99,9 +99,9 @@
           "quota": 36
         },
         {
-          "entries": 5,
+          "entries": 7,
           "name": "Top Dragster",
-          "percent_full": "13.9%",
+          "percent_full": "19.4%",
           "quota": 36
         }
       ],
@@ -120,9 +120,9 @@
           "quota": 55
         },
         {
-          "entries": 49,
+          "entries": 51,
           "name": "Stock Eliminator",
-          "percent_full": "89.1%",
+          "percent_full": "92.7%",
           "quota": 55
         },
         {
@@ -177,9 +177,9 @@
           "quota": 55
         },
         {
-          "entries": 38,
+          "entries": 39,
           "name": "Super Street",
-          "percent_full": "76.0%",
+          "percent_full": "78.0%",
           "quota": 50
         },
         {
@@ -204,27 +204,27 @@
     {
       "classes": [
         {
-          "entries": 1,
+          "entries": 2,
           "name": "Super Stock",
-          "percent_full": "1.8%",
+          "percent_full": "3.6%",
           "quota": 55
         },
         {
-          "entries": 3,
+          "entries": 4,
           "name": "Stock Eliminator",
-          "percent_full": "5.5%",
+          "percent_full": "7.3%",
           "quota": 55
         },
         {
-          "entries": 37,
+          "entries": 43,
           "name": "Super Comp",
-          "percent_full": "67.3%",
+          "percent_full": "78.2%",
           "quota": 55
         },
         {
-          "entries": 16,
+          "entries": 19,
           "name": "Super Gas",
-          "percent_full": "29.1%",
+          "percent_full": "34.5%",
           "quota": 55
         },
         {
@@ -234,9 +234,9 @@
           "quota": 36
         },
         {
-          "entries": 4,
+          "entries": 5,
           "name": "Top Dragster",
-          "percent_full": "11.1%",
+          "percent_full": "13.9%",
           "quota": 36
         }
       ],
@@ -247,6 +247,6 @@
       "name": "DENSO NHRA Sonoma Nationals"
     }
   ],
-  "generated_epoch": 1778082842,
-  "last_checked": "2026-05-06T15:54:02.091135Z"
+  "generated_epoch": 1778100817,
+  "last_checked": "2026-05-06T20:53:37.570828Z"
 }
