@@ -15,9 +15,9 @@
           "quota": 60
         },
         {
-          "entries": 57,
+          "entries": 56,
           "name": "Super Comp",
-          "percent_full": "95.0%",
+          "percent_full": "93.3%",
           "quota": 60
         },
         {
@@ -247,6 +247,6 @@
       "name": "DENSO NHRA Sonoma Nationals"
     }
   ],
-  "generated_epoch": 1778454066,
-  "last_checked": "2026-05-10T23:01:06.517449Z"
+  "generated_epoch": 1778457574,
+  "last_checked": "2026-05-10T23:59:34.375442Z"
 }
