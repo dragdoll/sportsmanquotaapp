@@ -42,9 +42,9 @@
           "quota": 50
         },
         {
-          "entries": 25,
+          "entries": 26,
           "name": "Super Street",
-          "percent_full": "50.0%",
+          "percent_full": "52.0%",
           "quota": 50
         },
         {
@@ -54,9 +54,9 @@
           "quota": 36
         },
         {
-          "entries": 32,
+          "entries": 33,
           "name": "Top Dragster",
-          "percent_full": "88.9%",
+          "percent_full": "91.7%",
           "quota": 36
         }
       ],
@@ -202,57 +202,14 @@
       "name": "DENSO NHRA Sonoma Nationals"
     },
     {
-      "classes": [
-        {
-          "entries": 5,
-          "name": "Super Stock",
-          "percent_full": "11.1%",
-          "quota": 45
-        },
-        {
-          "entries": 6,
-          "name": "Stock Eliminator",
-          "percent_full": "13.3%",
-          "quota": 45
-        },
-        {
-          "entries": 18,
-          "name": "Super Comp",
-          "percent_full": "40.0%",
-          "quota": 45
-        },
-        {
-          "entries": 10,
-          "name": "Super Gas",
-          "percent_full": "22.2%",
-          "quota": 45
-        },
-        {
-          "entries": 4,
-          "name": "Super Street",
-          "percent_full": "8.9%",
-          "quota": 45
-        },
-        {
-          "entries": 0,
-          "name": "Top Sportsman",
-          "percent_full": "0.0%",
-          "quota": 36
-        },
-        {
-          "entries": 11,
-          "name": "Top Dragster",
-          "percent_full": "30.6%",
-          "quota": 36
-        }
-      ],
+      "classes": [],
       "date": "07/24/2026",
-      "has_data": true,
+      "has_data": false,
       "id": "2026SW1",
       "location": "Seattle WA",
       "name": "Muckleshoot Casino Resort NHRA Northwest Nationals"
     }
   ],
-  "generated_epoch": 1780062693,
-  "last_checked": "2026-05-29T13:51:33.343942Z"
+  "generated_epoch": 1780075411,
+  "last_checked": "2026-05-29T17:23:31.646756Z"
 }
