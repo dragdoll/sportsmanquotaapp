@@ -60,9 +60,9 @@
           "quota": 55
         },
         {
-          "entries": 28,
+          "entries": 29,
           "name": "Stock Eliminator",
-          "percent_full": "50.9%",
+          "percent_full": "52.7%",
           "quota": 55
         },
         {
@@ -199,6 +199,6 @@
       "name": "NHRA Brainerd Nationals"
     }
   ],
-  "generated_epoch": 1781920426,
-  "last_checked": "2026-06-20T01:53:46.911711Z"
+  "generated_epoch": 1781935611,
+  "last_checked": "2026-06-20T06:06:51.017633Z"
 }
