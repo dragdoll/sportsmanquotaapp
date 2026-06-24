@@ -168,9 +168,9 @@
           "quota": 60
         },
         {
-          "entries": 37,
+          "entries": 38,
           "name": "Super Gas",
-          "percent_full": "61.7%",
+          "percent_full": "63.3%",
           "quota": 60
         },
         {
@@ -199,6 +199,6 @@
       "name": "NHRA Brainerd Nationals"
     }
   ],
-  "generated_epoch": 1782259792,
-  "last_checked": "2026-06-24T00:09:52.582304Z"
+  "generated_epoch": 1782275584,
+  "last_checked": "2026-06-24T04:33:04.483126Z"
 }
