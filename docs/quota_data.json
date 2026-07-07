@@ -72,9 +72,9 @@
           "quota": 45
         },
         {
-          "entries": 25,
+          "entries": 26,
           "name": "Super Street",
-          "percent_full": "55.6%",
+          "percent_full": "57.8%",
           "quota": 45
         },
         {
@@ -199,6 +199,6 @@
       "name": "Cornwell Quality Tools NHRA U.S. Nationals"
     }
   ],
-  "generated_epoch": 1783464233,
-  "last_checked": "2026-07-07T22:43:53.669355Z"
+  "generated_epoch": 1783467441,
+  "last_checked": "2026-07-07T23:37:21.929221Z"
 }
