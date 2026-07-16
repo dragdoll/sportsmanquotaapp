@@ -135,9 +135,9 @@
           "quota": 36
         },
         {
-          "entries": 18,
+          "entries": 19,
           "name": "Top Dragster",
-          "percent_full": "50.0%",
+          "percent_full": "52.8%",
           "quota": 36
         }
       ],
@@ -253,6 +253,6 @@
       "name": "NHRA Nationals at The Rock"
     }
   ],
-  "generated_epoch": 1784240996,
-  "last_checked": "2026-07-16T22:29:56.512673Z"
+  "generated_epoch": 1784244375,
+  "last_checked": "2026-07-16T23:26:15.531424Z"
 }
