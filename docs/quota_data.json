@@ -234,9 +234,9 @@
           "quota": 45
         },
         {
-          "entries": 29,
+          "entries": 30,
           "name": "Super Gas",
-          "percent_full": "64.4%",
+          "percent_full": "66.7%",
           "quota": 45
         },
         {
@@ -253,6 +253,6 @@
       "name": "NHRA Nationals at The Rock"
     }
   ],
-  "generated_epoch": 1784297976,
-  "last_checked": "2026-07-17T14:19:36.524782Z"
+  "generated_epoch": 1784303256,
+  "last_checked": "2026-07-17T15:47:36.945275Z"
 }
