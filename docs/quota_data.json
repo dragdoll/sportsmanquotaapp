@@ -222,9 +222,9 @@
           "quota": 45
         },
         {
-          "entries": 44,
+          "entries": 45,
           "name": "Stock Eliminator",
-          "percent_full": "97.8%",
+          "percent_full": "100.0%",
           "quota": 45
         },
         {
@@ -253,6 +253,6 @@
       "name": "NHRA Nationals at The Rock"
     }
   ],
-  "generated_epoch": 1784244375,
-  "last_checked": "2026-07-16T23:26:15.531424Z"
+  "generated_epoch": 1784249867,
+  "last_checked": "2026-07-17T00:57:47.989392Z"
 }
