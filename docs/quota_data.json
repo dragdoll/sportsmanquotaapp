@@ -1,103 +1,17 @@
 {
   "events": [
     {
-      "classes": [
-        {
-          "entries": 60,
-          "name": "Super Stock",
-          "percent_full": "100.0%",
-          "quota": 60
-        },
-        {
-          "entries": 60,
-          "name": "Stock Eliminator",
-          "percent_full": "100.0%",
-          "quota": 60
-        },
-        {
-          "entries": 60,
-          "name": "Super Comp",
-          "percent_full": "100.0%",
-          "quota": 60
-        },
-        {
-          "entries": 54,
-          "name": "Super Gas",
-          "percent_full": "90.0%",
-          "quota": 60
-        },
-        {
-          "entries": 45,
-          "name": "Super Street",
-          "percent_full": "90.0%",
-          "quota": 50
-        },
-        {
-          "entries": 7,
-          "name": "Top Sportsman",
-          "percent_full": "19.4%",
-          "quota": 36
-        },
-        {
-          "entries": 31,
-          "name": "Top Dragster",
-          "percent_full": "86.1%",
-          "quota": 36
-        }
-      ],
+      "classes": [],
       "date": "08/20/2026",
-      "has_data": true,
+      "has_data": false,
       "id": "2026BM1",
       "location": "Brainerd MN",
       "name": "NHRA Brainerd Nationals"
     },
     {
-      "classes": [
-        {
-          "entries": 134,
-          "name": "Super Stock",
-          "percent_full": "89.3%",
-          "quota": 150
-        },
-        {
-          "entries": 153,
-          "name": "Stock Eliminator",
-          "percent_full": "102.0%",
-          "quota": 150
-        },
-        {
-          "entries": 68,
-          "name": "Super Comp",
-          "percent_full": "45.3%",
-          "quota": 150
-        },
-        {
-          "entries": 55,
-          "name": "Super Gas",
-          "percent_full": "36.7%",
-          "quota": 150
-        },
-        {
-          "entries": 3,
-          "name": "Top Sportsman",
-          "percent_full": "7.5%",
-          "quota": 40
-        },
-        {
-          "entries": 40,
-          "name": "Top Dragster",
-          "percent_full": "100.0%",
-          "quota": 40
-        },
-        {
-          "entries": 0,
-          "name": "Hemi Challenge",
-          "percent_full": "0.0%",
-          "quota": 50
-        }
-      ],
+      "classes": [],
       "date": "09/02/2026",
-      "has_data": true,
+      "has_data": false,
       "id": "2026II1",
       "location": "Brownsburg IN",
       "name": "Cornwell Quality Tools NHRA U.S. Nationals"
@@ -196,6 +110,6 @@
       "name": "NAPA Auto Parts NHRA Midwest Nationals"
     }
   ],
-  "generated_epoch": 1785221162,
-  "last_checked": "2026-07-28T06:46:02.365052Z"
+  "generated_epoch": 1785230852,
+  "last_checked": "2026-07-28T09:27:32.686497Z"
 }
