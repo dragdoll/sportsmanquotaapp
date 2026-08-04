@@ -27,15 +27,15 @@
           "quota": 60
         },
         {
-          "entries": 46,
+          "entries": 47,
           "name": "Super Street",
-          "percent_full": "92.0%",
+          "percent_full": "94.0%",
           "quota": 50
         },
         {
-          "entries": 14,
+          "entries": 15,
           "name": "Top Sportsman",
-          "percent_full": "38.9%",
+          "percent_full": "41.7%",
           "quota": 36
         },
         {
@@ -196,6 +196,6 @@
       "name": "NAPA Auto Parts NHRA Midwest Nationals"
     }
   ],
-  "generated_epoch": 1785857933,
-  "last_checked": "2026-08-04T15:38:53.412114Z"
+  "generated_epoch": 1785863822,
+  "last_checked": "2026-08-04T17:17:02.929096Z"
 }
