@@ -1,9 +1,52 @@
 {
   "events": [
     {
-      "classes": [],
+      "classes": [
+        {
+          "entries": 59,
+          "name": "Super Stock",
+          "percent_full": "98.3%",
+          "quota": 60
+        },
+        {
+          "entries": 60,
+          "name": "Stock Eliminator",
+          "percent_full": "100.0%",
+          "quota": 60
+        },
+        {
+          "entries": 56,
+          "name": "Super Comp",
+          "percent_full": "93.3%",
+          "quota": 60
+        },
+        {
+          "entries": 52,
+          "name": "Super Gas",
+          "percent_full": "86.7%",
+          "quota": 60
+        },
+        {
+          "entries": 47,
+          "name": "Super Street",
+          "percent_full": "94.0%",
+          "quota": 50
+        },
+        {
+          "entries": 20,
+          "name": "Top Sportsman",
+          "percent_full": "55.6%",
+          "quota": 36
+        },
+        {
+          "entries": 35,
+          "name": "Top Dragster",
+          "percent_full": "97.2%",
+          "quota": 36
+        }
+      ],
       "date": "08/20/2026",
-      "has_data": false,
+      "has_data": true,
       "id": "2026BM1",
       "location": "Brainerd MN",
       "name": "NHRA Brainerd Nationals"
@@ -60,9 +103,16 @@
       "name": "Cornwell Quality Tools NHRA U.S. Nationals"
     },
     {
-      "classes": [],
+      "classes": [
+        {
+          "entries": 1,
+          "name": "Top Sportsman",
+          "percent_full": "2.8%",
+          "quota": 36
+        }
+      ],
       "date": "09/18/2026",
-      "has_data": false,
+      "has_data": true,
       "id": "2026GM1",
       "location": "Grand Rapids MI",
       "name": "Dodge NHRA Great Lakes Nationals"
@@ -197,6 +247,6 @@
       "name": "Texas NHRA FallNationals"
     }
   ],
-  "generated_epoch": 1786440698,
-  "last_checked": "2026-08-11T09:31:38.837724Z"
+  "generated_epoch": 1786444005,
+  "last_checked": "2026-08-11T10:26:45.971007Z"
 }
