@@ -228,9 +228,9 @@
           "quota": 70
         },
         {
-          "entries": 8,
+          "entries": 9,
           "name": "Top Sportsman",
-          "percent_full": "20.0%",
+          "percent_full": "22.5%",
           "quota": 40
         },
         {
@@ -247,6 +247,6 @@
       "name": "Texas NHRA FallNationals"
     }
   ],
-  "generated_epoch": 1786816868,
-  "last_checked": "2026-08-15T18:01:08.577858Z"
+  "generated_epoch": 1786819106,
+  "last_checked": "2026-08-15T18:38:26.923189Z"
 }
