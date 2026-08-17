@@ -3,15 +3,15 @@
     {
       "classes": [
         {
-          "entries": 58,
+          "entries": 59,
           "name": "Super Stock",
-          "percent_full": "96.7%",
+          "percent_full": "98.3%",
           "quota": 60
         },
         {
-          "entries": 60,
+          "entries": 61,
           "name": "Stock Eliminator",
-          "percent_full": "100.0%",
+          "percent_full": "101.7%",
           "quota": 60
         },
         {
@@ -247,6 +247,6 @@
       "name": "Texas NHRA FallNationals"
     }
   ],
-  "generated_epoch": 1786929580,
-  "last_checked": "2026-08-17T01:19:40.201386Z"
+  "generated_epoch": 1786934117,
+  "last_checked": "2026-08-17T02:35:17.051542Z"
 }
