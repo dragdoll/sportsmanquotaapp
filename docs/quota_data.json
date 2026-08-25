@@ -52,17 +52,55 @@
       "name": "Cornwell Quality Tools NHRA U.S. Nationals"
     },
     {
-      "classes": [],
+      "classes": [
+        {
+          "entries": 11,
+          "name": "Top Sportsman",
+          "percent_full": "30.6%",
+          "quota": 36
+        }
+      ],
       "date": "09/18/2026",
-      "has_data": false,
+      "has_data": true,
       "id": "2026GM1",
       "location": "Grand Rapids MI",
       "name": "Dodge NHRA Great Lakes Nationals"
     },
     {
-      "classes": [],
+      "classes": [
+        {
+          "entries": 45,
+          "name": "Super Stock",
+          "percent_full": "100.0%",
+          "quota": 45
+        },
+        {
+          "entries": 45,
+          "name": "Stock Eliminator",
+          "percent_full": "100.0%",
+          "quota": 45
+        },
+        {
+          "entries": 45,
+          "name": "Super Comp",
+          "percent_full": "100.0%",
+          "quota": 45
+        },
+        {
+          "entries": 46,
+          "name": "Super Gas",
+          "percent_full": "102.2%",
+          "quota": 45
+        },
+        {
+          "entries": 13,
+          "name": "Top Dragster",
+          "percent_full": "36.1%",
+          "quota": 36
+        }
+      ],
       "date": "09/25/2026",
-      "has_data": false,
+      "has_data": true,
       "id": "2026RN1",
       "location": "Rockingham NC",
       "name": "NHRA Nationals at The Rock"
@@ -203,6 +241,6 @@
       "name": "MOPAR NHRA Las Vegas Nationals"
     }
   ],
-  "generated_epoch": 1787633563,
-  "last_checked": "2026-08-25T04:52:43.131274Z"
+  "generated_epoch": 1787635208,
+  "last_checked": "2026-08-25T05:20:08.155942Z"
 }
