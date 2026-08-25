@@ -39,9 +39,9 @@
           "quota": 40
         },
         {
-          "entries": 10,
+          "entries": 11,
           "name": "Hemi Challenge",
-          "percent_full": "20.0%",
+          "percent_full": "22.0%",
           "quota": 50
         }
       ],
@@ -241,6 +241,6 @@
       "name": "MOPAR NHRA Las Vegas Nationals"
     }
   ],
-  "generated_epoch": 1787687885,
-  "last_checked": "2026-08-25T19:58:05.319812Z"
+  "generated_epoch": 1787689582,
+  "last_checked": "2026-08-25T20:26:22.554501Z"
 }
