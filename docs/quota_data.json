@@ -15,15 +15,15 @@
           "quota": 70
         },
         {
-          "entries": 75,
+          "entries": 74,
           "name": "Super Comp",
-          "percent_full": "107.1%",
+          "percent_full": "105.7%",
           "quota": 70
         },
         {
-          "entries": 72,
+          "entries": 71,
           "name": "Super Gas",
-          "percent_full": "102.9%",
+          "percent_full": "101.4%",
           "quota": 70
         },
         {
@@ -91,6 +91,6 @@
       "name": "In-N-Out Burger NHRA Finals"
     }
   ],
-  "generated_epoch": 1792274337,
-  "last_checked": "2026-10-17T21:58:57.478354Z"
+  "generated_epoch": 1792280956,
+  "last_checked": "2026-10-17T23:49:16.442423Z"
 }
